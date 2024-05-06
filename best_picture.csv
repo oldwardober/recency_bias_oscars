@@ -1,0 +1,496 @@
+year_film,year_ceremony,film,winner,film_id,audienceScore,tomatoMeter,runtimeMinutes,genre,boxOffice,days_to_ceremony,English,releaseMonth
+1928,1929,The Patriot,0,the_patriot_1928,55.0,100.0,108.0,History,,272,Yes,8
+1929,1930,Disraeli,0,disraeli_1929,42.0,83.0,89.0,Biography,,123,Yes,11
+1929,1930,The Love Parade,0,the_love_parade_1929,77.0,100.0,107.0,Musical,,105,Yes,11
+1931,1932,Arrowsmith,0,arrowsmith_1931,42.0,89.0,108.0,Drama,,328,Yes,12
+1931,1932,Bad Girl,0,bad_girl_1931,40.0,,90.0,Drama,,463,Yes,8
+1931,1932,The Champ,0,the_champ_1931,75.0,96.0,86.0,Drama,,363,Yes,11
+1931,1932,Five Star Final,0,five_star_final_1931,78.0,91.0,89.0,Crime,,419,Yes,9
+1931,1932,The Smiling Lieutenant,0,the_smiling_lieutenant_1931,67.0,88.0,88.0,Musical,,475,No,8
+1934,1935,The Barretts of Wimpole Street,0,the_barretts_of_wimpole_street_1934,70.0,78.0,110.0,Romance,,172,Yes,9
+1934,1935,Cleopatra,0,cleopatra_1934,67.0,82.0,101.0,History,,145,Yes,10
+1934,1935,Flirtation Walk,0,flirtation_walk_1934,27.0,100.0,97.0,Musical,,88,Yes,12
+1934,1935,The Gay Divorcee,0,the_gay_divorcee_1934,82.0,93.0,107.0,Musical,,138,Yes,10
+1934,1935,Here Comes the Navy,0,here_comes_the_navy_1934,38.0,80.0,86.0,Comedy,,221,Yes,7
+1934,1935,The House of Rothschild,0,the_house_of_rothschild_1934,53.0,100.0,86.0,Drama,,326,Yes,4
+1934,1935,Imitation of Life,0,imitation_of_life_1934,84.0,87.0,106.0,Drama,,93,Yes,11
+1934,1935,It Happened One Night,1,it_happened_one_night_1934,93.0,98.0,105.0,Romance,,370,Yes,2
+1934,1935,One Night of Love,0,one_night_of_love_1934,45.0,71.0,80.0,Musical,,236,Yes,7
+1934,1935,The Thin Man,0,the_thin_man_1934,94.0,98.0,93.0,Comedy,,271,Yes,6
+1934,1935,Viva Villa!,0,viva_villa!_1934,47.0,60.0,115.0,History,,306,Yes,4
+1934,1935,The White Parade,0,the_white_parade_1934,,57.0,80.0,Comedy,,103,Yes,11
+1935,1936,Alice Adams,0,alice_adams_1935,71.0,94.0,99.0,Comedy,,262,Yes,8
+1935,1936,Broadway Melody of 1936,0,broadway_melody_of_1936_1935,76.0,89.0,105.0,Musical,,226,Yes,9
+1935,1936,Captain Blood,0,captain_blood_1935,89.0,100.0,119.0,Adventure,,136,Yes,12
+1935,1936,David Copperfield,0,david_copperfield_1935,77.0,100.0,130.0,Drama,,481,Yes,1
+1935,1936,The Informer,0,the_informer_1935,77.0,94.0,91.0,Drama,,360,Yes,5
+1935,1936,Les Miserables,0,les_miserables_1935,86.0,85.0,108.0,Drama,,379,Yes,4
+1935,1936,The Lives of a Bengal Lancer,0,the_lives_of_a_bengal_lancer_1935,72.0,100.0,109.0,Adventure,,478,Yes,1
+1935,1936,A Midsummer Night's Dream,0,a_midsummer_night's_dream_1935,62.0,91.0,132.0,Comedy,,200,Yes,10
+1935,1936,Mutiny on the Bounty,1,mutiny_on_the_bounty_1935,84.0,96.0,132.0,Adventure,,177,Yes,11
+1935,1936,Naughty Marietta,0,naughty_marietta_1935,76.0,56.0,106.0,Musical,,401,Yes,3
+1935,1936,Ruggles of Red Gap,0,ruggles_of_red_gap_1935,90.0,100.0,92.0,Comedy,,422,Yes,3
+1935,1936,Top Hat,0,top_hat_1935,90.0,100.0,99.0,Musical,,240,Yes,9
+1936,1937,Anthony Adverse,0,anthony_adverse_1936,49.0,20.0,140.0,Romance,,217,Yes,8
+1936,1937,Dodsworth,0,dodsworth_1936,86.0,90.0,101.0,Drama,,192,Yes,9
+1936,1937,The Great Ziegfeld,1,the_great_ziegfeld_1936,50.0,72.0,174.0,Musical,,360,Yes,4
+1936,1937,Libeled Lady,0,libeled_lady_1936,87.0,86.0,98.0,Comedy,,176,Yes,10
+1936,1937,Mr. Deeds Goes to Town,0,mr._deeds_goes_to_town_1936,86.0,91.0,115.0,Comedy,,352,Yes,4
+1936,1937,Romeo and Juliet,0,romeo_and_juliet_1936,54.0,78.0,126.0,Romance,,212,Yes,9
+1936,1937,San Francisco,0,san_francisco_1936,71.0,92.0,115.0,Adventure,,281,Yes,6
+1936,1937,Three Smart Girls,0,three_smart_girls_1936,52.0,86.0,84.0,Kids & family,,104,Yes,12
+1937,1938,The Awful Truth,0,the_awful_truth_1937,87.0,90.0,92.0,Comedy,,347,Yes,10
+1937,1938,Captains Courageous,0,captains_courageous_1937,89.0,94.0,117.0,Adventure,,465,Yes,6
+1937,1938,Dead End,0,dead_end_1937,77.0,91.0,93.0,Crime,,405,Yes,8
+1937,1938,The Good Earth,0,the_good_earth_1937,76.0,95.0,138.0,Drama,,423,Yes,8
+1937,1938,The Life of Emile Zola,1,the_life_of_emile_zola_1937,73.0,91.0,116.0,Biography,,366,Yes,10
+1937,1938,Lost Horizon,0,lost_horizon_1937,82.0,93.0,132.0,Adventure,,580,Yes,3
+1937,1938,Stage Door,0,stage_door_1937,87.0,96.0,92.0,Comedy,,383,Yes,9
+1937,1938,A Star Is Born,0,a_star_is_born_1937,79.0,100.0,111.0,Drama,,524,Yes,4
+1938,1939,The Adventures of Robin Hood,0,the_adventures_of_robin_hood_1938,89.0,100.0,102.0,Adventure,,377,Yes,2
+1938,1939,Alexander's Ragtime Band,0,alexander's_ragtime_band_1938,46.0,80.0,105.0,Musical,,191,Yes,8
+1938,1939,Boys Town,0,boys_town_1938,81.0,90.0,96.0,Drama,,168,Yes,9
+1938,1939,The Citadel,0,the_citadel_1938,74.0,89.0,112.0,Drama,,112,Yes,11
+1938,1939,Four Daughters,0,four_daughters_1938,78.0,100.0,90.0,Romance,,198,Yes,8
+1938,1939,Jezebel,0,jezebel_1938,83.0,95.0,104.0,Drama,,350,Yes,3
+1938,1939,Pygmalion,0,pygmalion_1938,85.0,94.0,96.0,Romance,,344,Yes,3
+1938,1939,Test Pilot,0,test_pilot_1938,69.0,67.0,118.0,Adventure,,307,Yes,4
+1938,1939,You Can't Take It with You,1,you_can't_take_it_with_you_1938,88.0,95.0,127.0,Comedy,,184,Yes,8
+1939,1940,Dark Victory,0,dark_victory_1939,81.0,85.0,106.0,Drama,,313,Yes,4
+1939,1940,Gone with the Wind,1,gone_with_the_wind_1939,92.0,90.0,222.0,Romance,$198.7M,76,Yes,12
+1939,1940,"Goodbye, Mr. Chips",0,"goodbye,_mr._chips_1939",87.0,84.0,114.0,Drama,,216,Yes,7
+1939,1940,Love Affair,0,love_affair_1939,70.0,91.0,87.0,Comedy,,350,Yes,3
+1939,1940,Mr. Smith Goes to Washington,0,mr._smith_goes_to_washington_1939,94.0,97.0,125.0,Comedy,,133,Yes,10
+1939,1940,Ninotchka,0,ninotchka_1939,89.0,97.0,110.0,Comedy,,112,Yes,11
+1939,1940,Of Mice and Men,0,of_mice_and_men_1939,85.0,100.0,107.0,Drama,,61,Yes,12
+1939,1940,Stagecoach,0,stagecoach_1939,86.0,100.0,96.0,Western,,364,Yes,3
+1939,1940,The Wizard of Oz,0,the_wizard_of_oz_1939,89.0,98.0,101.0,Kids & family,$5.5M,188,Yes,8
+1939,1940,Wuthering Heights,0,wuthering_heights_1939,85.0,96.0,103.0,Romance,$593.9K,322,Yes,4
+1940,1941,Foreign Correspondent,0,foreign_correspondent_1940,81.0,95.0,119.0,Mystery & thriller,,195,Yes,8
+1940,1941,The Grapes of Wrath,0,the_grapes_of_wrath_1940,88.0,100.0,129.0,Drama,,349,Yes,3
+1940,1941,The Great Dictator,0,the_great_dictator_1940,95.0,92.0,128.0,Comedy,,135,Yes,10
+1940,1941,Kitty Foyle,0,kitty_foyle_1940,71.0,80.0,108.0,Drama,,62,Yes,12
+1940,1941,The Letter,0,the_letter_1940,82.0,100.0,95.0,Drama,,97,Yes,11
+1940,1941,The Long Voyage Home,0,the_long_voyage_home_1940,70.0,100.0,104.0,Drama,,108,Yes,11
+1940,1941,Our Town,0,our_town_1940,46.0,86.0,90.0,Drama,,259,Yes,6
+1940,1941,The Philadelphia Story,0,the_philadelphia_story_1940,93.0,100.0,112.0,Romance,,88,Yes,12
+1940,1941,Rebecca,1,rebecca_1940,92.0,98.0,130.0,Mystery & thriller,,321,Yes,4
+1941,1942,Blossoms in the Dust,0,blossoms_in_the_dust_1941,70.0,33.0,100.0,Biography,,216,Yes,7
+1941,1942,Citizen Kane,0,citizen_kane_1941,90.0,99.0,119.0,Drama,$977.3K,301,Yes,5
+1941,1942,Here Comes Mr. Jordan,0,here_comes_mr._jordan_1941,82.0,100.0,93.0,Fantasy,,218,Yes,7
+1941,1942,Hold Back the Dawn,0,hold_back_the_dawn_1941,78.0,100.0,115.0,Romance,,153,Yes,9
+1941,1942,How Green Was My Valley,1,how_green_was_my_valley_1941,81.0,93.0,118.0,Drama,,61,Yes,12
+1941,1942,The Little Foxes,0,the_little_foxes_1941,88.0,100.0,116.0,Drama,,189,Yes,8
+1941,1942,The Maltese Falcon,0,the_maltese_falcon_1941,91.0,99.0,100.0,Crime,,131,Yes,10
+1941,1942,One Foot in Heaven,0,one_foot_in_heaven_1941,55.0,100.0,108.0,Drama,,117,Yes,11
+1941,1942,Sergeant York,0,sergeant_york_1941,87.0,88.0,134.0,War,,152,Yes,9
+1941,1942,Suspicion,0,suspicion_1941,77.0,97.0,99.0,Mystery & thriller,,104,Yes,11
+1942,1943,Kings Row,0,kings_row_1942,78.0,100.0,127.0,Drama,,350,Yes,4
+1942,1943,The Magnificent Ambersons,0,the_magnificent_ambersons_1942,84.0,89.0,88.0,Drama,,267,Yes,7
+1942,1943,Mrs. Miniver,1,mrs._miniver_1942,84.0,94.0,134.0,Drama,,303,Yes,6
+1942,1943,The Pied Piper,0,the_pied_piper_1942,79.0,100.0,86.0,Drama,,269,Yes,7
+1942,1943,Random Harvest,0,random_harvest_1942,89.0,82.0,124.0,Drama,,107,Yes,12
+1942,1943,The Talk of the Town,0,the_talk_of_the_town_1942,84.0,88.0,118.0,Comedy,,219,Yes,8
+1942,1943,Wake Island,0,wake_island_1942,48.0,88.0,87.0,War,,235,Yes,8
+1943,1944,Casablanca,1,casablanca_1943,95.0,99.0,102.0,Drama,,376,Yes,1
+1943,1944,For Whom the Bell Tolls,0,for_whom_the_bell_tolls_1943,67.0,67.0,170.0,Drama,,204,Yes,7
+1943,1944,Heaven Can Wait,0,heaven_can_wait_1943,75.0,88.0,112.0,Fantasy,,176,Yes,8
+1943,1944,The Human Comedy,0,the_human_comedy_1943,69.0,83.0,118.0,Comedy,,338,Yes,3
+1943,1944,Madame Curie,0,madame_curie_1943,67.0,88.0,124.0,Biography,,50,Yes,12
+1943,1944,The Ox-Bow Incident,0,the_ox-bow_incident_1943,91.0,91.0,75.0,Western,,258,Yes,5
+1943,1944,The Song of Bernadette,0,the_song_of_bernadette_1943,80.0,88.0,156.0,Drama,,40,Yes,12
+1943,1944,Watch on the Rhine,0,watch_on_the_rhine_1943,63.0,80.0,114.0,Drama,,160,Yes,8
+1944,1945,Double Indemnity,0,double_indemnity_1944,95.0,97.0,106.0,Crime,,190,Yes,9
+1944,1945,Gaslight,0,gaslight_1944,90.0,89.0,114.0,Mystery & thriller,,308,Yes,5
+1944,1945,Going My Way,1,going_my_way_1944,74.0,82.0,130.0,Musical,,316,Yes,5
+1944,1945,Since You Went Away,0,since_you_went_away_1944,80.0,83.0,172.0,Drama,,238,Yes,7
+1944,1945,Wilson,0,wilson_1944,42.0,89.0,154.0,Biography,,226,Yes,8
+1945,1946,Anchors Aweigh,0,anchors_aweigh_1945,78.0,57.0,143.0,Musical,,354,Yes,7
+1945,1946,The Bells of St. Mary's,0,the_bells_of_st._mary's_1945,77.0,85.0,126.0,Holiday,,208,Yes,12
+1945,1946,The Lost Weekend,1,the_lost_weekend_1945,90.0,97.0,101.0,Drama,,229,Yes,11
+1945,1946,Mildred Pierce,0,mildred_pierce_1945,90.0,88.0,109.0,Drama,,282,Yes,9
+1945,1946,Spellbound,0,spellbound_1945,82.0,85.0,111.0,Mystery & thriller,,245,Yes,10
+1946,1947,The Best Years of Our Lives,1,the_best_years_of_our_lives_1946,93.0,97.0,172.0,Drama,,112,Yes,11
+1946,1947,Henry V,0,henry_v_1946,75.0,100.0,137.0,Drama,,269,Yes,6
+1946,1947,It's a Wonderful Life,0,it's_a_wonderful_life_1946,95.0,94.0,129.0,Holiday,$3.3M,430,Yes,1
+1946,1947,The Razor's Edge,0,the_razor's_edge_1946,71.0,60.0,146.0,Drama,,114,Yes,11
+1947,1948,Crossfire,0,crossfire_1947,75.0,88.0,86.0,Crime,,242,Yes,7
+1947,1948,Gentleman's Agreement,1,gentleman's_agreement_1947,77.0,82.0,118.0,Drama,,130,Yes,11
+1947,1948,Miracle on 34th Street,0,miracle_on_34th_street_1947,87.0,96.0,96.0,Holiday,,323,Yes,5
+1948,1949,Hamlet,1,hamlet_1948,80.0,96.0,153.0,Drama,,177,Yes,9
+1948,1949,Johnny Belinda,0,johnny_belinda_1948,89.0,91.0,102.0,Drama,,191,Yes,9
+1948,1949,The Red Shoes,0,the_red_shoes_1948,92.0,97.0,133.0,Drama,,199,Yes,9
+1948,1949,The Snake Pit,0,the_snake_pit_1948,84.0,100.0,108.0,Drama,,131,Yes,11
+1948,1949,The Treasure of the Sierra Madre,0,the_treasure_of_the_sierra_madre_1948,93.0,100.0,124.0,Adventure,,443,Yes,1
+1949,1950,All the King's Men,1,all_the_king's_men_1949,78.0,97.0,109.0,Drama,,135,Yes,11
+1949,1950,The Heiress,0,the_heiress_1949,93.0,100.0,115.0,Drama,,168,Yes,10
+1949,1950,Twelve O'Clock High,0,twelve_o'clock_high_1949,86.0,96.0,132.0,War,,92,Yes,12
+1950,1951,All about Eve,1,all_about_eve_1950,94.0,99.0,138.0,Drama,$10.2K,167,Yes,10
+1950,1951,Born Yesterday,0,born_yesterday_1950,85.0,97.0,103.0,Comedy,,93,Yes,12
+1950,1951,Father of the Bride,0,father_of_the_bride_1950,74.0,90.0,93.0,Comedy,,286,Yes,6
+1950,1951,King Solomon's Mines,0,king_solomon's_mines_1950,60.0,92.0,102.0,Adventure,,125,Yes,11
+1950,1951,Sunset Blvd.,0,sunset_blvd._1950,95.0,98.0,110.0,Drama,,231,Yes,8
+1951,1952,An American in Paris,1,an_american_in_paris_1951,79.0,95.0,113.0,Musical,,132,Yes,11
+1951,1952,Decision before Dawn,0,decision_before_dawn_1951,73.0,100.0,119.0,Drama,,90,Yes,12
+1951,1952,A Place in the Sun,0,a_place_in_the_sun_1951,84.0,81.0,122.0,Drama,,205,Yes,8
+1951,1952,A Streetcar Named Desire,0,a_streetcar_named_desire_1951,90.0,97.0,122.0,Drama,,444,Yes,1
+1952,1953,The Greatest Show on Earth,1,the_greatest_show_on_earth_1952,53.0,49.0,152.0,Drama,,434,Yes,1
+1952,1953,High Noon,0,high_noon_1952,89.0,94.0,85.0,Western,,238,Yes,7
+1952,1953,Ivanhoe,0,ivanhoe_1952,64.0,79.0,106.0,Adventure,,231,Yes,7
+1952,1953,The Quiet Man,0,the_quiet_man_1952,91.0,91.0,129.0,Drama,,230,Yes,8
+1953,1954,From Here to Eternity,1,from_here_to_eternity_1953,84.0,88.0,118.0,Drama,,232,Yes,8
+1953,1954,Julius Caesar,0,julius_caesar_1953,81.0,96.0,121.0,History,,294,Yes,6
+1953,1954,The Robe,0,the_robe_1953,69.0,38.0,135.0,History,,190,Yes,9
+1953,1954,Roman Holiday,0,roman_holiday_1953,93.0,95.0,119.0,Romance,,210,Yes,8
+1953,1954,Shane,0,shane_1953,81.0,97.0,118.0,Western,,335,Yes,4
+1954,1955,The Caine Mutiny,0,the_caine_mutiny_1954,87.0,93.0,125.0,Drama,,279,Yes,6
+1954,1955,On the Waterfront,1,on_the_waterfront_1954,95.0,99.0,108.0,Drama,,245,Yes,7
+1954,1955,Seven Brides for Seven Brothers,0,seven_brides_for_seven_brothers_1954,87.0,89.0,103.0,Musical,,251,Yes,7
+1954,1955,Three Coins in the Fountain,0,three_coins_in_the_fountain_1954,43.0,60.0,102.0,Romance,,301,Yes,6
+1955,1956,Marty,1,marty_1955,87.0,96.0,91.0,Drama,,305,Yes,5
+1955,1956,Mister Roberts,0,mister_roberts_1955,85.0,93.0,123.0,Comedy,,235,Yes,7
+1955,1956,Picnic,0,picnic_1955,54.0,50.0,115.0,Drama,$24.0K,132,Yes,11
+1955,1956,The Rose Tattoo,0,the_rose_tattoo_1955,73.0,63.0,117.0,Drama,,100,Yes,12
+1956,1957,Around the World in 80 Days,1,around_the_world_in_80_days_1956,57.0,70.0,170.0,Comedy,,161,Yes,10
+1956,1957,Friendly Persuasion,0,friendly_persuasion_1956,82.0,89.0,139.0,Drama,,122,Yes,11
+1956,1957,Giant,0,giant_1956,87.0,88.0,201.0,Drama,$183.9K,123,Yes,11
+1956,1957,The King and I,0,the_king_and_i_1956,83.0,93.0,133.0,Musical,,271,Yes,6
+1956,1957,The Ten Commandments,0,the_ten_commandments_1956,87.0,84.0,220.0,History,,173,Yes,10
+1957,1958,The Bridge on the River Kwai,1,the_bridge_on_the_river_kwai_1957,93.0,96.0,161.0,War,,98,Yes,12
+1957,1958,Peyton Place,0,peyton_place_1957,73.0,65.0,157.0,Drama,,105,Yes,12
+1957,1958,Sayonara,0,sayonara_1957,79.0,82.0,147.0,Drama,,111,Yes,12
+1957,1958,12 Angry Men,0,12_angry_men_1957,97.0,100.0,95.0,Drama,,340,Yes,4
+1957,1958,Witness for the Prosecution,0,witness_for_the_prosecution_1957,95.0,100.0,114.0,Crime,,95,Yes,12
+1958,1959,Auntie Mame,0,auntie_mame_1958,93.0,88.0,143.0,Comedy,,159,Yes,12
+1958,1959,Cat on a Hot Tin Roof,0,cat_on_a_hot_tin_roof_1958,92.0,97.0,108.0,Drama,,259,Yes,9
+1958,1959,The Defiant Ones,0,the_defiant_ones_1958,88.0,91.0,97.0,Drama,,250,Yes,9
+1958,1959,Gigi,1,gigi_1958,74.0,88.0,116.0,Musical,,385,Yes,5
+1958,1959,Separate Tables,0,separate_tables_1958,76.0,67.0,99.0,Drama,,171,Yes,12
+1959,1960,Anatomy of a Murder,0,anatomy_of_a_murder_1959,90.0,100.0,160.0,Crime,,278,Yes,7
+1959,1960,Ben-Hur,1,ben-hur_1959,89.0,85.0,203.0,History,,138,Yes,11
+1959,1960,The Diary of Anne Frank,0,the_diary_of_anne_frank_1959,77.0,80.0,156.0,History,,383,Yes,3
+1959,1960,The Nun's Story,0,the_nun's_story_1959,81.0,83.0,149.0,Drama,,261,Yes,7
+1959,1960,Room at the Top,0,room_at_the_top_1959,81.0,100.0,118.0,Drama,,371,Yes,3
+1960,1961,The Alamo,0,the_alamo_1960,64.0,52.0,192.0,History,,175,Yes,10
+1960,1961,The Apartment,1,the_apartment_1960,94.0,93.0,125.0,Comedy,,306,Yes,6
+1960,1961,Elmer Gantry,0,elmer_gantry_1960,87.0,94.0,145.0,Drama,,284,Yes,7
+1960,1961,Sons and Lovers,0,sons_and_lovers_1960,50.0,67.0,103.0,Drama,,258,Yes,8
+1960,1961,The Sundowners,0,the_sundowners_1960,63.0,79.0,133.0,Drama,,130,Yes,12
+1961,1962,Fanny,0,fanny_1961,67.0,80.0,133.0,Drama,,433,Yes,6
+1961,1962,The Guns of Navarone,0,the_guns_of_navarone_1961,86.0,92.0,157.0,War,,439,Yes,6
+1961,1962,The Hustler,0,the_hustler_1961,92.0,94.0,135.0,Drama,,344,Yes,9
+1961,1962,Judgment at Nuremberg,0,judgment_at_nuremberg_1961,93.0,92.0,186.0,Drama,,259,Yes,12
+1961,1962,West Side Story,1,west_side_story_1961,84.0,92.0,151.0,Musical,,321,Yes,10
+1962,1963,Lawrence of Arabia,1,lawrence_of_arabia_1962,93.0,94.0,216.0,Biography,$6.0M,231,Yes,12
+1962,1963,The Longest Day,0,the_longest_day_1962,90.0,87.0,180.0,War,,313,Yes,9
+1962,1963,Mutiny on the Bounty,0,mutiny_on_the_bounty_1962,73.0,70.0,179.0,Adventure,,269,Yes,11
+1962,1963,To Kill a Mockingbird,0,to_kill_a_mockingbird_1962,93.0,93.0,129.0,Drama,,222,Yes,12
+1963,1964,Cleopatra,0,cleopatra_1963,69.0,56.0,243.0,History,,306,Yes,6
+1963,1964,Lilies of the Field,0,lilies_of_the_field_1963,86.0,92.0,94.0,Comedy,,195,Yes,10
+1963,1964,Tom Jones,1,tom_jones_1963,58.0,80.0,129.0,Comedy,$481.4K,190,Yes,10
+1964,1965,Becket,0,becket_1964,87.0,78.0,148.0,History,,419,Yes,3
+1964,1965,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,0,dr._strangelove_or:_how_i_learned_to_stop_worrying_and_love_the_bomb_1964,94.0,98.0,93.0,Comedy,,461,Yes,1
+1964,1965,Mary Poppins,0,mary_poppins_1964,86.0,96.0,140.0,Kids & family,,250,Yes,8
+1964,1965,My Fair Lady,1,my_fair_lady_1964,90.0,94.0,170.0,Musical,$447.6K,195,Yes,10
+1964,1965,Zorba the Greek,0,zorba_the_greek_1964,86.0,79.0,142.0,Drama,,138,Yes,12
+1965,1966,Darling,0,darling_1965,70.0,67.0,128.0,Drama,,274,Yes,7
+1965,1966,Doctor Zhivago,0,doctor_zhivago_1965,88.0,84.0,197.0,Romance,$87.1K,117,Yes,12
+1965,1966,The Sound of Music,1,the_sound_of_music_1965,91.0,84.0,174.0,Kids & family,$109.0K,412,Yes,3
+1965,1966,A Thousand Clowns,0,a_thousand_clowns_1965,88.0,72.0,118.0,Comedy,,126,Yes,12
+1966,1967,Alfie,0,alfie_1966,76.0,97.0,114.0,Comedy,,406,Yes,8
+1966,1967,A Man for All Seasons,1,a_man_for_all_seasons_1966,87.0,89.0,120.0,History,,296,Yes,12
+1966,1967,The Sand Pebbles,0,the_sand_pebbles_1966,88.0,89.0,182.0,Adventure,,288,Yes,12
+1966,1967,Who's Afraid of Virginia Woolf?,0,who's_afraid_of_virginia_woolf?_1966,90.0,96.0,129.0,Drama,,469,Yes,6
+1967,1968,Bonnie and Clyde,0,bonnie_and_clyde_1967,88.0,90.0,111.0,Crime,,418,Yes,8
+1967,1968,Doctor Dolittle,0,doctor_dolittle_1967,57.0,29.0,152.0,Kids & family,,290,Yes,12
+1967,1968,The Graduate,0,the_graduate_1967,90.0,86.0,105.0,Comedy,$285.8K,288,Yes,12
+1967,1968,Guess Who's Coming to Dinner,0,guess_who's_coming_to_dinner_1967,85.0,71.0,108.0,Comedy,,297,Yes,12
+1968,1969,Funny Girl,0,funny_girl_1968,85.0,94.0,151.0,Musical,$223.3K,207,Yes,9
+1968,1969,The Lion in Winter,0,the_lion_in_winter_1968,90.0,90.0,132.0,History,$17.9K,166,Yes,10
+1968,1969,Oliver!,1,oliver!_1968,81.0,90.0,146.0,Musical,,200,Yes,9
+1968,1969,"Rachel, Rachel",0,"rachel,_rachel_1968",76.0,90.0,101.0,Drama,,231,Yes,8
+1968,1969,Romeo and Juliet,0,romeo_and_juliet_1968,74.0,95.0,138.0,Romance,,188,Yes,10
+1969,1970,Anne of the Thousand Days,0,anne_of_the_thousand_days_1969,83.0,38.0,145.0,History,,198,Yes,12
+1969,1970,Butch Cassidy and the Sundance Kid,0,butch_cassidy_and_the_sundance_kid_1969,92.0,89.0,110.0,Western,,253,Yes,10
+1969,1970,"Hello, Dolly!",0,"hello,_dolly!_1969",76.0,45.0,146.0,Musical,,204,Yes,12
+1969,1970,Midnight Cowboy,1,midnight_cowboy_1969,88.0,89.0,113.0,Drama,$201.0K,405,Yes,5
+1969,1970,Z,0,z_1969,93.0,94.0,127.0,Mystery & thriller,$83.3K,208,No,12
+1970,1971,Airport,0,airport_1970,54.0,75.0,137.0,Mystery & thriller,,375,Yes,4
+1970,1971,Five Easy Pieces,0,five_easy_pieces_1970,84.0,89.0,96.0,Drama,,215,Yes,9
+1970,1971,Love Story,0,love_story_1970,75.0,66.0,99.0,Romance,,120,Yes,12
+1970,1971,M*A*S*H,0,m*a*s*h_1970,83.0,84.0,116.0,Comedy,,440,Yes,1
+1970,1971,Patton,1,patton_1970,93.0,90.0,171.0,War,,445,Yes,1
+1971,1972,A Clockwork Orange,0,a_clockwork_orange_1971,93.0,88.0,137.0,Drama,,610,Yes,2
+1971,1972,Fiddler on the Roof,0,fiddler_on_the_roof_1971,92.0,84.0,181.0,Musical,,642,Yes,1
+1971,1972,The French Connection,1,the_french_connection_1971,87.0,96.0,104.0,Crime,,363,Yes,10
+1971,1972,The Last Picture Show,0,the_last_picture_show_1971,89.0,100.0,118.0,Drama,,642,Yes,1
+1971,1972,Nicholas and Alexandra,0,nicholas_and_alexandra_1971,78.0,69.0,183.0,History,,296,Yes,12
+1972,1973,Cabaret,0,cabaret_1972,87.0,92.0,124.0,Musical,,408,Yes,2
+1972,1973,Deliverance,0,deliverance_1972,82.0,89.0,109.0,Adventure,,240,Yes,7
+1972,1973,The Emigrants,0,the_emigrants_1972,87.0,93.0,148.0,Drama,,184,No,9
+1972,1973,The Godfather,1,the_godfather_1972,98.0,97.0,177.0,Crime,$134.8M,377,Yes,3
+1972,1973,Sounder,0,sounder_1972,77.0,90.0,105.0,Drama,,184,Yes,9
+1973,1974,American Graffiti,0,american_graffiti_1973,84.0,96.0,110.0,Comedy,,177,Yes,8
+1973,1974,The Exorcist,0,the_exorcist_1973,87.0,84.0,122.0,Horror,$441.4M,40,Yes,12
+1973,1974,The Sting,1,the_sting_1973,95.0,92.0,129.0,Comedy,,41,Yes,12
+1973,1974,A Touch of Class,0,a_touch_of_class_1973,65.0,85.0,105.0,Romance,,229,Yes,6
+1974,1975,Chinatown,0,chinatown_1974,93.0,99.0,131.0,Crime,,410,Yes,6
+1974,1975,The Conversation,0,the_conversation_1974,89.0,97.0,113.0,Mystery & thriller,$143.2K,484,Yes,4
+1974,1975,The Towering Inferno,0,the_towering_inferno_1974,72.0,67.0,165.0,Action,,233,Yes,12
+1975,1976,Barry Lyndon,0,barry_lyndon_1975,92.0,89.0,184.0,Drama,,102,Yes,12
+1975,1976,Dog Day Afternoon,0,dog_day_afternoon_1975,90.0,96.0,130.0,Crime,,190,Yes,9
+1975,1976,Jaws,0,jaws_1975,90.0,97.0,124.0,Mystery & thriller,$272.2M,283,Yes,6
+1975,1976,Nashville,0,nashville_1975,84.0,91.0,157.0,Comedy,,292,Yes,6
+1975,1976,One Flew over the Cuckoo's Nest,1,one_flew_over_the_cuckoo's_nest_1975,96.0,93.0,133.0,Drama,,131,Yes,11
+1976,1977,All the President's Men,0,all_the_president's_men_1976,92.0,94.0,138.0,Drama,,452,Yes,1
+1976,1977,Network,0,network_1976,93.0,92.0,121.0,Comedy,,121,Yes,11
+1976,1977,Rocky,1,rocky_1976,69.0,92.0,119.0,Drama,,117,Yes,12
+1976,1977,Taxi Driver,0,taxi_driver_1976,93.0,96.0,113.0,Drama,,414,Yes,2
+1977,1978,Annie Hall,1,annie_hall_1977,92.0,97.0,93.0,Romance,,427,Yes,1
+1977,1978,The Goodbye Girl,0,the_goodbye_girl_1977,84.0,79.0,110.0,Romance,,94,Yes,11
+1977,1978,Julia,0,julia_1977,70.0,74.0,116.0,Drama,,153,Yes,10
+1977,1978,The Turning Point,0,the_turning_point_1977,67.0,63.0,119.0,Drama,,110,Yes,11
+1978,1979,Coming Home,0,coming_home_1978,83.0,86.0,126.0,Drama,,566,Yes,2
+1978,1979,The Deer Hunter,1,the_deer_hunter_1978,92.0,86.0,183.0,War,,270,Yes,12
+1978,1979,Heaven Can Wait,0,heaven_can_wait_1978,68.0,87.0,101.0,Comedy,,433,Yes,6
+1978,1979,Midnight Express,0,midnight_express_1978,89.0,93.0,121.0,Drama,,368,Yes,9
+1978,1979,An Unmarried Woman,0,an_unmarried_woman_1978,73.0,90.0,125.0,Drama,,548,Yes,3
+1979,1980,All That Jazz,0,all_that_jazz_1979,85.0,87.0,123.0,Drama,,469,Yes,1
+1979,1980,Apocalypse Now,0,apocalypse_now_1979,94.0,98.0,153.0,War,$78.8M,243,Yes,8
+1979,1980,Breaking Away,0,breaking_away_1979,88.0,95.0,100.0,Comedy,,271,Yes,7
+1979,1980,Kramer vs. Kramer,1,kramer_vs._kramer_1979,89.0,89.0,104.0,Drama,,117,Yes,12
+1979,1980,Norma Rae,0,norma_rae_1979,79.0,90.0,113.0,Drama,,409,Yes,3
+1980,1981,Coal Miner's Daughter,0,coal_miner's_daughter_1980,86.0,85.0,125.0,Biography,,389,Yes,3
+1980,1981,The Elephant Man,0,the_elephant_man_1980,93.0,92.0,125.0,Biography,,179,Yes,10
+1980,1981,Ordinary People,1,ordinary_people_1980,88.0,89.0,123.0,Drama,,193,Yes,9
+1980,1981,Raging Bull,0,raging_bull_1980,93.0,93.0,128.0,Biography,$87.3K,455,Yes,1
+1981,1982,Atlantic City,0,atlantic_city_1981,77.0,100.0,104.0,Comedy,,360,Yes,4
+1981,1982,Chariots of Fire,1,chariots_of_fire_1981,80.0,83.0,123.0,Drama,,184,Yes,9
+1981,1982,Raiders of the Lost Ark,0,raiders_of_the_lost_ark_1981,96.0,96.0,115.0,Adventure,$248.2M,290,Yes,6
+1981,1982,Reds,0,reds_1981,82.0,90.0,195.0,Drama,,115,Yes,12
+1982,1983,E.T. The Extra-Terrestrial,0,e.t._the_extra-terrestrial_1982,72.0,99.0,115.0,Kids & family,$439.2M,511,Yes,6
+1982,1983,Gandhi,1,gandhi_1982,92.0,89.0,188.0,Biography,,339,Yes,11
+1982,1983,Missing,0,missing_1982,85.0,94.0,122.0,Drama,,630,Yes,2
+1982,1983,Tootsie,0,tootsie_1982,81.0,90.0,111.0,Comedy,,322,Yes,12
+1982,1983,The Verdict,0,the_verdict_1982,88.0,89.0,122.0,Drama,,331,Yes,12
+1983,1984,The Big Chill,0,the_big_chill_1983,77.0,71.0,103.0,Comedy,$57.0K,361,Yes,9
+1983,1984,The Dresser,0,the_dresser_1983,87.0,100.0,118.0,Comedy,,273,Yes,12
+1983,1984,The Right Stuff,0,the_right_stuff_1983,90.0,96.0,193.0,History,,361,Yes,9
+1983,1984,Tender Mercies,0,tender_mercies_1983,81.0,85.0,90.0,Drama,,550,Yes,3
+1983,1984,Terms of Endearment,1,terms_of_endearment_1983,83.0,81.0,132.0,Comedy,,286,Yes,11
+1984,1985,Amadeus,1,amadeus_1984,95.0,89.0,158.0,Biography,,132,Yes,11
+1984,1985,The Killing Fields,0,the_killing_fields_1984,91.0,93.0,141.0,Drama,,143,Yes,11
+1984,1985,Places in the Heart,0,places_in_the_heart_1984,83.0,89.0,111.0,Drama,,185,Yes,9
+1984,1985,A Soldier's Story,0,a_soldier's_story_1984,82.0,92.0,101.0,Mystery & thriller,,192,Yes,9
+1985,1986,The Color Purple,0,the_color_purple_1985,94.0,77.0,152.0,Drama,$93.4M,96,Yes,12
+1985,1986,Kiss of the Spider Woman,0,kiss_of_the_spider_woman_1985,80.0,85.0,119.0,Drama,$13.2M,268,No,6
+1985,1986,Out of Africa,1,out_of_africa_1985,82.0,61.0,160.0,Romance,$83.1M,96,Yes,12
+1985,1986,Prizzi's Honor,0,prizzi's_honor_1985,62.0,85.0,129.0,Romance,$26.6M,283,Yes,6
+1985,1986,Witness,0,witness_1985,80.0,93.0,112.0,Crime,$65.3M,409,Yes,2
+1986,1987,Children of a Lesser God,0,children_of_a_lesser_god_1986,78.0,80.0,117.0,Drama,$26.8M,178,Yes,10
+1986,1987,Hannah and Her Sisters,0,hannah_and_her_sisters_1986,90.0,91.0,106.0,Comedy,$37.3M,416,Yes,2
+1986,1987,The Mission,0,the_mission_1986,87.0,66.0,128.0,History,$17.2M,150,Yes,10
+1986,1987,Platoon,1,platoon_1986,93.0,89.0,120.0,War,$138.5M,101,Yes,12
+1986,1987,A Room with a View,0,a_room_with_a_view_1986,85.0,100.0,115.0,Drama,$12.0M,388,Yes,3
+1987,1988,Broadcast News,0,broadcast_news_1987,79.0,98.0,132.0,Romance,$49.2M,324,Yes,12
+1987,1988,Fatal Attraction,0,fatal_attraction_1987,72.0,75.0,119.0,Mystery & thriller,$154.0M,420,Yes,9
+1987,1988,Hope and Glory,0,hope_and_glory_1987,82.0,96.0,111.0,Comedy,$9.4M,392,Yes,10
+1987,1988,The Last Emperor,1,the_last_emperor_1987,88.0,87.0,162.0,Biography,$43.0M,352,Yes,11
+1987,1988,Moonstruck,0,moonstruck_1987,80.0,93.0,101.0,Romance,$80.0M,322,Yes,12
+1988,1989,Dangerous Liaisons,0,dangerous_liaisons_1988,83.0,94.0,120.0,Drama,$32.7M,108,Yes,12
+1988,1989,Rain Man,1,rain_man_1988,90.0,89.0,133.0,Drama,$171.2M,105,Yes,12
+1988,1989,Working Girl,0,working_girl_1988,67.0,83.0,113.0,Romance,$62.2M,98,Yes,12
+1989,1990,Born on the Fourth of July,0,born_on_the_fourth_of_july_1989,76.0,85.0,144.0,Drama,$68.8M,96,Yes,12
+1989,1990,Dead Poets Society,0,dead_poets_society_1989,92.0,84.0,128.0,Drama,$94.5M,297,Yes,6
+1989,1990,Driving Miss Daisy,1,driving_miss_daisy_1989,81.0,84.0,99.0,Comedy,$105.6M,103,Yes,12
+1989,1990,Field of Dreams,0,field_of_dreams_1989,86.0,88.0,106.0,Fantasy,$61.8M,339,Yes,4
+1989,1990,My Left Foot,0,my_left_foot_1989,92.0,98.0,103.0,Biography,$14.5M,136,Yes,11
+1990,1991,Awakenings,0,awakenings_1990,89.0,86.0,121.0,Drama,$49.4M,95,Yes,12
+1990,1991,Dances With Wolves,1,dances_with_wolves_1990,87.0,87.0,180.0,History,$184.0M,124,Yes,11
+1990,1991,Ghost,0,ghost_1990,80.0,76.0,127.0,Fantasy,$214.3M,255,Yes,7
+1990,1991,"The Godfather, Part III",0,"the_godfather,_part_iii_1990",64.0,67.0,161.0,Crime,$64.6M,90,Yes,12
+1991,1992,Beauty and the Beast,0,beauty_and_the_beast_1991,91.0,93.0,84.0,Kids & family,$219.0M,138,Yes,11
+1991,1992,Bugsy,0,bugsy_1991,69.0,84.0,135.0,Biography,$48.2M,108,Yes,12
+1991,1992,JFK,0,jfk_1991,88.0,84.0,189.0,History,,101,Yes,12
+1991,1992,The Prince of Tides,0,the_prince_of_tides_1991,70.0,68.0,132.0,Romance,$72.0M,96,Yes,12
+1991,1992,The Silence of the Lambs,1,the_silence_of_the_lambs_1991,95.0,95.0,119.0,Mystery & thriller,$130.7M,411,Yes,2
+1992,1993,The Crying Game,0,the_crying_game_1992,78.0,94.0,113.0,Mystery & thriller,$60.7M,124,Yes,11
+1992,1993,A Few Good Men,0,a_few_good_men_1992,89.0,84.0,138.0,Drama,$141.3M,108,Yes,12
+1992,1993,Howards End,0,howards_end_1992,81.0,94.0,140.0,Drama,$157.9K,381,Yes,3
+1992,1993,Scent of a Woman,0,scent_of_a_woman_1992,92.0,87.0,157.0,Drama,$62.1M,96,Yes,12
+1992,1993,Unforgiven,1,unforgiven_1992,93.0,96.0,130.0,Western,$100.0M,234,Yes,8
+1993,1994,The Fugitive,0,the_fugitive_1993,89.0,96.0,127.0,Action,$183.8M,227,Yes,8
+1993,1994,In the Name of the Father,0,in_the_name_of_the_father_1993,95.0,94.0,132.0,Biography,$24.6M,99,Yes,12
+1993,1994,The Piano,0,the_piano_1993,86.0,90.0,120.0,Drama,$39.3M,129,Yes,11
+1993,1994,The Remains of the Day,0,the_remains_of_the_day_1993,89.0,96.0,135.0,Drama,$23.0M,136,Yes,11
+1993,1994,Schindler's List,1,schindler's_list_1993,97.0,98.0,195.0,History,$96.6M,96,Yes,12
+1994,1995,Forrest Gump,1,forrest_gump_1994,95.0,71.0,142.0,Comedy,$330.3M,264,Yes,7
+1994,1995,Four Weddings and a Funeral,0,four_weddings_and_a_funeral_1994,74.0,96.0,116.0,Romance,$49.3M,383,Yes,3
+1994,1995,Pulp Fiction,0,pulp_fiction_1994,96.0,92.0,153.0,Crime,,164,Yes,10
+1994,1995,Quiz Show,0,quiz_show_1994,87.0,97.0,130.0,Drama,$24.8M,194,Yes,9
+1994,1995,The Shawshank Redemption,0,the_shawshank_redemption_1994,98.0,91.0,142.0,Drama,$27.3M,207,Yes,9
+1995,1996,Apollo 13,0,apollo_13_1995,87.0,96.0,140.0,History,$173.8M,269,Yes,6
+1995,1996,Babe,0,babe_1995,67.0,97.0,94.0,Kids & family,$63.6M,234,Yes,8
+1995,1996,Braveheart,1,braveheart_1995,85.0,75.0,177.0,History,$75.5M,306,Yes,5
+1995,1996,Sense and Sensibility,0,sense_and_sensibility_1995,90.0,97.0,135.0,Comedy,$42.0M,103,Yes,12
+1996,1997,The English Patient,1,the_english_patient_1996,83.0,86.0,162.0,Drama,$78.7M,138,Yes,11
+1996,1997,Fargo,0,fargo_1996,92.0,94.0,97.0,Comedy,$24.5M,374,Yes,3
+1996,1997,Jerry Maguire,0,jerry_maguire_1996,79.0,84.0,138.0,Romance,$153.6M,103,Yes,12
+1996,1997,Secrets & Lies,0,secrets_&_lies_1996,91.0,96.0,142.0,Drama,$13.4M,150,Yes,10
+1996,1997,Shine,0,shine_1996,90.0,91.0,105.0,Biography,$35.9M,428,Yes,1
+1997,1998,As Good as It Gets,0,as_good_as_it_gets_1997,86.0,86.0,138.0,Romance,$147.6M,94,Yes,12
+1997,1998,The Full Monty,0,the_full_monty_1997,79.0,96.0,91.0,Comedy,$45.9M,222,Yes,8
+1997,1998,L.A. Confidential,0,l.a._confidential_1997,94.0,99.0,136.0,Crime,$64.6M,185,Yes,9
+1997,1998,Titanic,1,titanic_1997,69.0,88.0,195.0,History,$658.8M,94,Yes,12
+1998,1999,Elizabeth,0,elizabeth_1998,86.0,83.0,121.0,History,$30.1M,135,Yes,11
+1998,1999,Life Is Beautiful,0,life_is_beautiful_1998,96.0,80.0,122.0,Comedy,$57.6M,150,No,10
+1998,1999,Saving Private Ryan,0,saving_private_ryan_1998,95.0,94.0,169.0,War,,240,Yes,7
+1998,1999,Shakespeare in Love,1,shakespeare_in_love_1998,80.0,92.0,122.0,Romance,$100.2M,86,Yes,12
+1998,1999,The Thin Red Line,0,the_thin_red_line_1998,80.0,80.0,170.0,War,$36.4M,86,Yes,12
+1999,2000,American Beauty,1,american_beauty_1999,93.0,87.0,122.0,Comedy,$130.1M,177,Yes,10
+1999,2000,The Cider House Rules,0,the_cider_house_rules_1999,77.0,71.0,131.0,Drama,$57.5M,201,Yes,9
+1999,2000,The Green Mile,0,the_green_mile_1999,94.0,79.0,189.0,Drama,$136.8M,107,Yes,12
+1999,2000,The Insider,0,the_insider_1999,90.0,96.0,157.0,Drama,$29.0M,142,Yes,11
+1999,2000,The Sixth Sense,0,the_sixth_sense_1999,90.0,86.0,107.0,Mystery & thriller,$293.5M,233,Yes,8
+2000,2001,"Crouching Tiger, Hidden Dragon",0,"crouching_tiger,_hidden_dragon_2000",86.0,98.0,120.0,Adventure,$426.5K,93,No,12
+2000,2001,Erin Brockovich,0,erin_brockovich_2000,81.0,85.0,131.0,Drama,$125.5M,373,Yes,3
+2000,2001,Gladiator,1,gladiator_2000,87.0,79.0,154.0,History,$187.7M,324,Yes,5
+2001,2002,Gosford Park,0,gosford_park_2001,78.0,87.0,137.0,Mystery & thriller,$41.3M,88,Yes,12
+2001,2002,In the Bedroom,0,in_the_bedroom_2001,81.0,93.0,138.0,Drama,$35.9M,121,Yes,11
+2001,2002,The Lord of the Rings: The Fellowship of the Ring,0,the_lord_of_the_rings:_the_fellowship_of_the_ring_2001,95.0,91.0,178.0,Fantasy,$315.5M,95,Yes,12
+2001,2002,Moulin Rouge,0,moulin_rouge_2001,89.0,75.0,126.0,Musical,$57.4M,296,Yes,6
+2002,2003,Gangs of New York,0,gangs_of_new_york_2002,81.0,72.0,168.0,History,,93,Yes,12
+2002,2003,The Hours,0,the_hours_2002,84.0,79.0,114.0,Drama,$41.6M,86,Yes,12
+2002,2003,The Lord of the Rings: The Two Towers,0,the_lord_of_the_rings:_the_two_towers_2002,95.0,95.0,179.0,Fantasy,$342.6M,95,Yes,12
+2002,2003,The Pianist,0,the_pianist_2002,96.0,95.0,148.0,History,$32.5M,86,Yes,12
+2003,2004,The Lord of the Rings: The Return of the King,1,the_lord_of_the_rings:_the_return_of_the_king_2003,86.0,93.0,200.0,Fantasy,$377.8M,74,Yes,12
+2003,2004,Lost in Translation,0,lost_in_translation_2003,85.0,95.0,102.0,Comedy,$44.6M,163,Yes,9
+2003,2004,Master and Commander: The Far Side of the World,0,master_and_commander:_the_far_side_of_the_world_2003,80.0,85.0,139.0,Adventure,$93.9M,107,Yes,11
+2003,2004,Mystic River,0,mystic_river_2003,89.0,88.0,137.0,Crime,$90.1M,137,Yes,10
+2003,2004,Seabiscuit,0,seabiscuit_2003,76.0,78.0,140.0,Drama,$120.1M,219,Yes,7
+2004,2005,The Aviator,0,the_aviator_2004,79.0,86.0,166.0,Biography,$102.6M,64,Yes,12
+2004,2005,Finding Neverland,0,finding_neverland_2004,87.0,83.0,106.0,Kids & family,$51.7M,95,Yes,11
+2004,2005,Million Dollar Baby,1,million_dollar_baby_2004,90.0,90.0,132.0,Drama,$100.4M,74,Yes,12
+2004,2005,Ray,0,ray_2004,87.0,79.0,155.0,Biography,$75.3M,121,Yes,10
+2004,2005,Sideways,0,sideways_2004,79.0,97.0,126.0,Comedy,$71.5M,128,Yes,10
+2005,2006,Brokeback Mountain,0,brokeback_mountain_2005,82.0,88.0,134.0,Romance,$83.0M,145,Yes,12
+2005,2006,Capote,0,capote_2005,82.0,89.0,115.0,Biography,$28.7M,215,Yes,9
+2005,2006,Crash,1,crash_2005,88.0,74.0,112.0,Drama,$54.6M,362,Yes,5
+2005,2006,"Good Night, and Good Luck.",0,"good_night,_and_good_luck._2005",83.0,93.0,93.0,History,$31.5M,208,Yes,10
+2006,2007,Babel,0,babel_2006,77.0,69.0,142.0,Drama,$34.3M,107,No,11
+2006,2007,The Departed,1,the_departed_2006,94.0,91.0,152.0,Crime,$132.4M,142,Yes,10
+2006,2007,Little Miss Sunshine,0,little_miss_sunshine_2006,91.0,91.0,102.0,Comedy,$59.9M,401,Yes,1
+2006,2007,The Queen,0,the_queen_2006,76.0,97.0,101.0,Biography,$56.4M,148,Yes,9
+2007,2008,Atonement,0,atonement_2007,80.0,83.0,123.0,Drama,$50.9M,79,Yes,12
+2007,2008,Juno,0,juno_2007,88.0,94.0,96.0,Comedy,$143.5M,61,Yes,12
+2007,2008,Michael Clayton,0,michael_clayton_2007,69.0,91.0,120.0,Drama,$49.0M,135,Yes,10
+2007,2008,No Country for Old Men,1,no_country_for_old_men_2007,86.0,93.0,122.0,Crime,$74.3M,95,Yes,11
+2008,2009,The Curious Case of Benjamin Button,0,the_curious_case_of_benjamin_button_2008,80.0,71.0,167.0,Fantasy,$127.5M,59,Yes,12
+2008,2009,Frost/Nixon,0,frost/nixon_2008,88.0,93.0,122.0,History,$18.6M,59,Yes,12
+2008,2009,Milk,0,milk_2008,89.0,93.0,128.0,Biography,$31.8M,88,Yes,11
+2009,2010,Avatar,0,avatar_2009,82.0,82.0,155.0,Sci-fi,$23.5M,197,Yes,12
+2009,2010,The Blind Side,0,the_blind_side_2009,85.0,66.0,128.0,Drama,$256.0M,225,Yes,11
+2009,2010,District 9,0,district_9_2009,82.0,90.0,111.0,Sci-fi,$115.6M,323,Yes,8
+2009,2010,An Education,0,an_education_2009,80.0,93.0,100.0,Drama,$12.6M,267,Yes,10
+2009,2010,The Hurt Locker,1,the_hurt_locker_2009,84.0,97.0,127.0,War,$15.7M,337,Yes,7
+2009,2010,Inglourious Basterds,0,inglourious_basterds_2009,88.0,89.0,152.0,War,$120.5M,316,Yes,8
+2009,2010,A Serious Man,0,a_serious_man_2009,68.0,89.0,105.0,Comedy,$9.2M,274,Yes,10
+2009,2010,Up,0,up_2009,90.0,98.0,96.0,Kids & family,,400,Yes,5
+2009,2010,Up in the Air,0,up_in_the_air_2009,79.0,90.0,109.0,Comedy,$83.8M,192,Yes,12
+2010,2011,Black Swan,0,black_swan_2010,84.0,85.0,108.0,Drama,$107.0M,72,Yes,12
+2010,2011,The Fighter,0,the_fighter_2010,89.0,91.0,116.0,Drama,$93.6M,72,Yes,12
+2010,2011,Inception,0,inception_2010,91.0,87.0,148.0,Sci-fi,$292.6M,226,Yes,7
+2010,2011,The Kids Are All Right,0,the_kids_are_all_right_2010,74.0,92.0,104.0,Comedy,$20.8M,212,Yes,7
+2010,2011,The Social Network,0,the_social_network_2010,87.0,96.0,120.0,Drama,$96.9M,149,Yes,10
+2010,2011,Toy Story 3,0,toy_story_3_2010,90.0,98.0,102.0,Kids & family,$415.0M,254,Yes,6
+2010,2011,True Grit,0,true_grit_2010,85.0,95.0,110.0,Western,$171.0M,67,Yes,12
+2010,2011,Winter's Bone,0,winter's_bone_2010,76.0,94.0,99.0,Drama,$6.5M,261,Yes,6
+2011,2012,The Artist,1,the_artist_2011,87.0,95.0,100.0,Romance,$44.7M,95,No,11
+2011,2012,The Descendants,0,the_descendants_2011,79.0,87.0,115.0,Comedy,$82.6M,95,Yes,11
+2011,2012,The Help,0,the_help_2011,89.0,76.0,146.0,Drama,$169.7M,200,Yes,8
+2011,2012,Hugo,0,hugo_2011,78.0,93.0,126.0,Adventure,$73.8M,95,Yes,11
+2011,2012,Midnight in Paris,0,midnight_in_paris_2011,83.0,93.0,94.0,Romance,$56.8M,261,Yes,6
+2011,2012,Moneyball,0,moneyball_2011,86.0,94.0,133.0,Drama,$75.6M,156,Yes,9
+2011,2012,The Tree of Life,0,the_tree_of_life_2011,60.0,84.0,138.0,Drama,$13.3M,275,Yes,5
+2011,2012,War Horse,0,war_horse_2011,74.0,75.0,146.0,History,$79.9M,63,Yes,12
+2012,2013,Amour,0,amour_2012,82.0,93.0,127.0,Drama,$3.7M,67,No,12
+2012,2013,Argo,1,argo_2012,90.0,96.0,120.0,History,$136.0M,135,Yes,10
+2012,2013,Beasts of the Southern Wild,0,beasts_of_the_southern_wild_2012,76.0,86.0,93.0,Drama,$12.8M,242,Yes,6
+2012,2013,Django Unchained,0,django_unchained_2012,92.0,87.0,165.0,Western,$162.8M,61,Yes,12
+2012,2013,Les Misérables,0,les_misérables_2012,79.0,69.0,158.0,Musical,$148.8M,61,Yes,12
+2012,2013,Life of Pi,0,life_of_pi_2012,84.0,86.0,125.0,Adventure,$125.0M,95,Yes,11
+2012,2013,Lincoln,0,lincoln_2012,81.0,89.0,149.0,History,$182.2M,100,Yes,11
+2012,2013,Silver Linings Playbook,0,silver_linings_playbook_2012,86.0,92.0,122.0,Comedy,$132.1M,95,Yes,11
+2013,2014,American Hustle,0,american_hustle_2013,74.0,92.0,138.0,Crime,$150.1M,45,Yes,12
+2013,2014,Captain Phillips,0,captain_phillips_2013,89.0,93.0,133.0,Drama,$107.1M,115,Yes,10
+2013,2014,Dallas Buyers Club,0,dallas_buyers_club_2013,91.0,92.0,117.0,Drama,$27.3M,94,Yes,11
+2013,2014,Gravity,0,gravity_2013,79.0,96.0,91.0,Drama,$274.1M,122,Yes,10
+2013,2014,Nebraska,0,nebraska_2013,83.0,91.0,114.0,Drama,$17.6M,80,Yes,11
+2013,2014,Philomena,0,philomena_2013,89.0,91.0,97.0,Drama,$37.7M,73,Yes,11
+2013,2014,12 Years a Slave,1,12_years_a_slave_2013,90.0,95.0,134.0,History,$56.7M,108,Yes,10
+2013,2014,The Wolf of Wall Street,0,the_wolf_of_wall_street_2013,83.0,80.0,179.0,Comedy,$116.9M,40,Yes,12
+2014,2015,Boyhood,0,boyhood_2014,80.0,97.0,165.0,Drama,$25.4M,219,Yes,7
+2014,2015,The Grand Budapest Hotel,0,the_grand_budapest_hotel_2014,86.0,92.0,99.0,Comedy,$59.1M,352,Yes,3
+2014,2015,The Imitation Game,0,the_imitation_game_2014,91.0,90.0,113.0,History,$91.1M,59,Yes,12
+2014,2015,The Theory of Everything,0,the_theory_of_everything_2014,84.0,80.0,123.0,Biography,$35.9M,107,Yes,11
+2014,2015,Whiplash,0,whiplash_2014,94.0,94.0,106.0,Drama,$13.2M,135,Yes,10
+2015,2016,The Big Short,0,the_big_short_2015,88.0,89.0,130.0,Comedy,$70.2M,67,Yes,12
+2015,2016,Bridge of Spies,0,bridge_of_spies_2015,87.0,91.0,141.0,History,$72.3M,135,Yes,10
+2015,2016,Brooklyn,0,brooklyn_2015,87.0,97.0,112.0,Romance,$38.3M,95,Yes,11
+2015,2016,Mad Max: Fury Road,0,mad_max:_fury_road_2015,86.0,97.0,120.0,Action,$153.6M,289,Yes,5
+2015,2016,The Martian,0,the_martian_2015,91.0,91.0,142.0,Sci-fi,$228.4M,149,Yes,10
+2015,2016,Spotlight,1,spotlight_2015,93.0,97.0,128.0,Drama,$45.0M,100,Yes,11
+2016,2017,Arrival,0,arrival_2016,82.0,94.0,116.0,Sci-fi,$100.5M,107,Yes,11
+2016,2017,Fences,0,fences_2016,75.0,92.0,133.0,Drama,$57.6M,63,Yes,12
+2016,2017,Hacksaw Ridge,0,hacksaw_ridge_2016,91.0,84.0,139.0,War,$67.0M,114,Yes,11
+2016,2017,Hell or High Water,0,hell_or_high_water_2016,88.0,97.0,97.0,Crime,$27.0M,191,Yes,8
+2016,2017,La La Land,0,la_la_land_2016,81.0,91.0,128.0,Musical,$151.1M,63,Yes,12
+2016,2017,Lion,0,lion_2016,91.0,84.0,121.0,Drama,$51.7M,67,Yes,12
+2016,2017,Manchester by the Sea,0,manchester_by_the_sea_2016,78.0,96.0,137.0,Drama,$47.7M,72,Yes,12
+2016,2017,Moonlight,1,moonlight_2016,79.0,98.0,111.0,Drama,$27.9M,100,Yes,11
+2017,2018,Darkest Hour,0,darkest_hour_2017,82.0,84.0,125.0,History,$56.3M,102,Yes,12
+2017,2018,Dunkirk,0,dunkirk_2017,81.0,92.0,107.0,War,$188.0M,256,Yes,7
+2017,2018,Get Out,0,get_out_2017,86.0,98.0,104.0,Horror,$176.0M,403,Yes,2
+2017,2018,The Shape of Water,1,the_shape_of_water_2017,72.0,92.0,123.0,Fantasy,$63.3M,102,Yes,12
+2017,2018,"Three Billboards outside Ebbing, Missouri",0,"three_billboards_outside_ebbing,_missouri_2017",87.0,90.0,115.0,Crime,$54.1M,132,Yes,11
+2018,2019,Black Panther,0,black_panther_2018,79.0,96.0,134.0,Action,$700.2M,373,Yes,2
+2018,2019,BlacKkKlansman,0,blackkklansman_2018,83.0,96.0,134.0,Comedy,$48.6M,198,Yes,8
+2018,2019,Bohemian Rhapsody,0,bohemian_rhapsody_2018,85.0,60.0,135.0,Biography,$216.3M,114,Yes,11
+2018,2019,The Favourite,0,the_favourite_2018,70.0,93.0,120.0,Comedy,$34.2M,72,Yes,12
+2018,2019,Green Book,1,green_book_2018,91.0,77.0,130.0,Comedy,$85.1M,95,Yes,11
+2018,2019,Roma,0,roma_2018,72.0,96.0,135.0,Drama,,95,No,11
+2018,2019,A Star Is Born,0,a_star_is_born_2018,80.0,90.0,135.0,Romance,$215.3M,142,Yes,10
+2018,2019,Vice,0,vice_2018,60.0,65.0,132.0,Biography,$47.8M,61,Yes,12
+2019,2020,Ford v Ferrari,0,ford_v_ferrari_2019,98.0,92.0,152.0,History,$117.6M,292,Yes,11
+2019,2020,The Irishman,0,the_irishman_2019,86.0,95.0,209.0,Crime,,306,Yes,11
+2019,2020,Jojo Rabbit,0,jojo_rabbit_2019,94.0,80.0,108.0,Comedy,$33.4M,299,Yes,11
+2019,2020,Joker,0,joker_2019,88.0,69.0,122.0,Crime,$335.4M,334,Yes,10
+2019,2020,Little Women,0,little_women_2019,92.0,95.0,135.0,Drama,$108.1M,252,Yes,12
+2019,2020,Marriage Story,0,marriage_story_2019,85.0,95.0,136.0,Drama,,301,Yes,11
+2019,2020,Parasite,1,parasite_2019,90.0,99.0,132.0,Comedy,$53.4M,306,No,11
+2020,2021,Mank,0,mank_2020,60.0,83.0,132.0,Biography,,163,Yes,11
+2020,2021,Promising Young Woman,0,promising_young_woman_2020,87.0,90.0,113.0,Comedy,$6.4M,121,Yes,12
+2020,2021,Sound of Metal,0,sound_of_metal_2020,90.0,97.0,120.0,Drama,,156,Yes,11
+2020,2021,The Trial of the Chicago 7,0,the_trial_of_the_chicago_7_2020,90.0,89.0,129.0,History,,191,Yes,10
+2021,2022,Belfast,0,belfast_2021,92.0,86.0,97.0,Drama,$9.2M,135,Yes,11
+2021,2022,CODA,1,coda_2021,91.0,94.0,111.0,Drama,,226,Yes,8
+2021,2022,Don't Look Up,0,don't_look_up_2021,78.0,56.0,138.0,Comedy,,107,Yes,12
+2021,2022,Drive My Car,0,drive_my_car_2021,78.0,97.0,179.0,Drama,$2.3M,123,No,11
+2021,2022,Dune,0,dune_2021,90.0,83.0,155.0,Sci-fi,$108.3M,156,Yes,10
+2021,2022,King Richard,0,king_richard_2021,98.0,90.0,146.0,Biography,$15.1M,128,Yes,11
+2021,2022,Licorice Pizza,0,licorice_pizza_2021,66.0,91.0,133.0,Comedy,$17.3M,92,Yes,12
+2021,2022,Nightmare Alley,0,nightmare_alley_2021,68.0,81.0,150.0,Mystery & thriller,$11.3M,100,Yes,12
+2021,2022,The Power of the Dog,0,the_power_of_the_dog_2021,76.0,94.0,128.0,Western,,130,Yes,11
+2021,2022,West Side Story,0,west_side_story_2021,93.0,91.0,156.0,Musical,$38.5M,107,Yes,12
+2022,2023,All Quiet on the Western Front,0,all_quiet_on_the_western_front_2022,90.0,89.0,148.0,War,,422,No,10
+2022,2023,Avatar: The Way of Water,0,avatar:_the_way_of_water_2022,92.0,76.0,192.0,Sci-fi,$678.3M,352,Yes,12
+2022,2023,The Banshees of Inisherin,0,the_banshees_of_inisherin_2022,75.0,96.0,109.0,Comedy,$10.6M,394,Yes,11
+2022,2023,Elvis,0,elvis_2022,94.0,77.0,159.0,Biography,$151.0M,527,Yes,6
+2022,2023,Everything Everywhere All at Once,1,everything_everywhere_all_at_once_2022,86.0,94.0,132.0,Comedy,$75.7M,604,Yes,4
+2022,2023,The Fabelmans,0,the_fabelmans_2022,83.0,92.0,151.0,Drama,$17.3M,375,Yes,11
+2022,2023,Tár,0,tár_2022,74.0,91.0,158.0,Drama,$6.8M,401,Yes,10
+2022,2023,Top Gun: Maverick,0,top_gun:_maverick_2022,99.0,96.0,131.0,Action,$718.5M,555,Yes,5
+2022,2023,Triangle of Sadness,0,triangle_of_sadness_2022,67.0,71.0,149.0,Comedy,$4.6M,422,Yes,10
+2023,2024,Barbie,0,barbie_2023,,,,Comedy,,440,Yes,7
+2023,2024,Oppenheimer,1,oppenheimer_2023,,,,History,,440,Yes,7
+2023,2024,Past Lives,0,past_lives_2023,,94.0,106.0,Romance,,503,Yes,5
