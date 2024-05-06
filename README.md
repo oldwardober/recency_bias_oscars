@@ -1,1 +1,1 @@
-# recency_bias_oscars
+The aim of this analysis was to verify whether there is a recency bias at the oscars (if movies that are released closer to the ceremony date are more likely to win). The topic was approached from two angles: first by modelling the number of oscars won by each movie (zero-inflated negative binomial model was used), secondly by focusing only on the main award category for the best picture (logit model). In both cases results suggest that there is no recency bias at oscars. 
